@@ -4,6 +4,8 @@
 [![Stars](https://img.shields.io/github/stars/huey1in/WindsurfX?style=flat-square)](https://github.com/huey1in/WindsurfX/stargazers)
 [![Issues](https://img.shields.io/github/issues/huey1in/WindsurfX?style=flat-square)](https://github.com/huey1in/WindsurfX/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/huey1in/WindsurfX?style=flat-square)](https://github.com/huey1in/WindsurfX/commits/main)
+<a href="https://linux.do"><img src="https://img.shields.io/badge/LINUX%20DO-社区-f0b752?style=flat-square" alt="LINUX
+   DO"></a>
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square)](https://www.python.org)
 
 **WindsurfX** 是一套用于 Windsurf (windsurf.com) 平台的自动注册工具。
